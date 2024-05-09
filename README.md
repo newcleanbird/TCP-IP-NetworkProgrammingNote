@@ -14,6 +14,8 @@
 
 ## 目录
 [第一章：理解网络编程和套接字](ch01/理解网络编程和套接字.md)
+[第二章：套接字类型与协议设置](ch02/套接字类型与协议设置.md)
+[第三章：地址族与数据序列](ch03/地址族与数据序列.md)
 
 ## 参考仓库及博客
 1. [riba2534/TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)
